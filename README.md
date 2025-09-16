@@ -63,7 +63,7 @@ Each project is part of my story of becoming a **problem-solver who blends innov
 
 ## 📫 Connect with Me  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/harsh-khandelwal/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/harsh-khandelwal-993212295/)
 - 📧 harshkhandelwal129@gmail.com  
 
 ---
