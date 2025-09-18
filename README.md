@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Harsh Khandelwal  
 
-💡 **AI & Machine Learning enthusiast | Software Developer | Aspiring Cybersecurity Professional**  
+💡 Turning Data into Intelligent Solutions | AI/ML Enthusiast | Software Developer & Data Analyst
 
 ---
 
