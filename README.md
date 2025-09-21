@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 My Journey  
+## 🚀 My Journey          
 
 It all started with a curiosity: *how can technology solve problems that really matter?*  
 That curiosity became a journey of building **intelligent systems**, **scalable apps**, and **secure solutions**.  
