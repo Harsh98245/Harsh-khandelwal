@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Harsh Khandelwal  
 
 💡 Turning Data into Intelligent Solutions | AI/ML Enthusiast | Software Developer & Data Analyst
+[Portfolio](https://harsh-personal-portfolio.vercel.app/)
 
 ---
 
@@ -73,7 +74,8 @@ Each project is part of my story of becoming a **problem-solver who blends innov
 ## 📫 Connect with Me  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/harsh-khandelwal-993212295/)
-- 📧 harshkhandelwal129@gmail.com  
+- 📧 harshkhandelwal129@gmail.com
+
 
 ---
 
